@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pthanhcanh
+- 👋 Hi, I’m Canh Phan
 - 👀 I’m interested in the Power and Energy Engineering
 - 🌱 I’m currently learning Electrical power and energy engineering
 - 💞️ I’m looking to collaborate on ...
